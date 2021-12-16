@@ -1,0 +1,26 @@
+.Questions {
+  border: solid;
+  border: none;
+  height: 250px;
+  padding: 12px 60px;
+  width: max-content;
+  background-color: pink;
+  display: flex;
+  align-items: flex-start;
+}
+
+.input {
+  border: none;
+  padding: 12px;
+  outline: 0cm;
+  background-color: whitesmoke;
+  color: black;
+}
+
+h3 {
+  padding: 0;
+  margin: 0;
+  font-size: 35px;
+  color: grey;
+  margin-bottom: 40px;
+}
